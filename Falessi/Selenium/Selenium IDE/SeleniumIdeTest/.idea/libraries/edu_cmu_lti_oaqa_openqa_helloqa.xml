@@ -1,0 +1,72 @@
+<component name="libraryTable">
+  <library name="edu.cmu.lti.oaqa.openqa.helloqa" type="repository">
+    <properties maven-id="edu.cmu.lti.oaqa.openqa:helloqa:1.0.1" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/edu/cmu/lti/oaqa/openqa/helloqa/1.0.1/helloqa-1.0.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/edu/cmu/lti/oaqa/framework/impl/jdbc-providers/2.2.1/jdbc-providers-2.2.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/spring-jdbc/3.0.5.RELEASE/spring-jdbc-3.0.5.RELEASE.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/3.0.5.RELEASE/spring-beans-3.0.5.RELEASE.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/spring-core/3.0.5.RELEASE/spring-core-3.0.5.RELEASE.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/spring-asm/3.0.5.RELEASE/spring-asm-3.0.5.RELEASE.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/spring-tx/3.0.5.RELEASE/spring-tx-3.0.5.RELEASE.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/aopalliance/aopalliance/1.0/aopalliance-1.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/spring-aop/3.0.5.RELEASE/spring-aop-3.0.5.RELEASE.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/3.0.5.RELEASE/spring-context-3.0.5.RELEASE.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/spring-expression/3.0.5.RELEASE/spring-expression-3.0.5.RELEASE.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/c3p0/c3p0/0.9.1.2/c3p0-0.9.1.2.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/mysql/mysql-connector-java/5.1.21/mysql-connector-java-5.1.21.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/xerial/sqlite-jdbc/3.7.2/sqlite-jdbc-3.7.2.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/edu/cmu/lti/oaqa/bio/core/baseqa/1.8.0/baseqa-1.8.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/edu/cmu/lti/oaqa/core/provider/solr-provider/1.0.7/solr-provider-1.0.7.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/solr/solr-solrj/3.6.1/solr-solrj-3.6.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/commons-httpclient/commons-httpclient/3.1/commons-httpclient-3.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/commons-io/commons-io/2.1/commons-io-2.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/codehaus/woodstox/wstx-asl/3.2.7/wstx-asl-3.2.7.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/slf4j/jcl-over-slf4j/1.6.1/jcl-over-slf4j-1.6.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/slf4j/slf4j-api/1.6.1/slf4j-api-1.6.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/solr/solr-core/3.6.1/solr-core-3.6.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/lucene/lucene-core/3.6.1/lucene-core-3.6.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/lucene/lucene-analyzers/3.6.1/lucene-analyzers-3.6.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/lucene/lucene-highlighter/3.6.1/lucene-highlighter-3.6.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/lucene/lucene-kuromoji/3.6.1/lucene-kuromoji-3.6.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/lucene/lucene-memory/3.6.1/lucene-memory-3.6.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/lucene/lucene-misc/3.6.1/lucene-misc-3.6.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/lucene/lucene-phonetic/3.6.1/lucene-phonetic-3.6.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/lucene/lucene-queries/3.6.1/lucene-queries-3.6.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/jakarta-regexp/jakarta-regexp/1.4/jakarta-regexp-1.4.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/lucene/lucene-spatial/3.6.1/lucene-spatial-3.6.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/lucene/lucene-spellchecker/3.6.1/lucene-spellchecker-3.6.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/lucene/lucene-grouping/3.6.1/lucene-grouping-3.6.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/commons-codec/commons-codec/1.6/commons-codec-1.6.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/commons-fileupload/commons-fileupload/1.2.1/commons-fileupload-1.2.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/commons-lang/commons-lang/2.6/commons-lang-2.6.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/javax/servlet/servlet-api/2.4/servlet-api-2.4.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.2.1/httpclient-4.2.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpcore/4.2.1/httpcore-4.2.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/commons-logging/commons-logging/1.1.1/commons-logging-1.1.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpmime/4.2.1/httpmime-4.2.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/google/guava/guava/13.0/guava-13.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/edu/cmu/lti/oaqa/cse/cse-framework/2.2.1/cse-framework-2.2.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/activemq/activemq-all/5.4.3/activemq-all-5.4.3.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/edu/cmu/lti/oaqa/ecd/uima-ecd/2.2.1/uima-ecd-2.2.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/uima/uimaj-core/2.3.1/uimaj-core-2.3.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/uimafit/uimafit/1.2.0/uimafit-1.2.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/uima/uimaj-tools/2.3.1/uimaj-tools-2.3.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/uima/uimaj-cpe/2.3.1/uimaj-cpe-2.3.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/uima/uimaj-adapter-vinci/2.3.1/uimaj-adapter-vinci-2.3.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/uima/jVinci/2.3.1/jVinci-2.3.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/uima/uimaj-document-annotation/2.3.1/uimaj-document-annotation-2.3.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/mx/bigdata/anyobject/anyobject/1.0.2/anyobject-1.0.2.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/mx/bigdata/streaming/streaming/1.0.0/streaming-1.0.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/yaml/snakeyaml/1.10/snakeyaml-1.10.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/codehaus/jackson/jackson-mapper-asl/1.8.4/jackson-mapper-asl-1.8.4.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/codehaus/jackson/jackson-core-asl/1.8.4/jackson-core-asl-1.8.4.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/reflections/reflections/0.9.8/reflections-0.9.8.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/javassist/javassist/3.12.1.GA/javassist-3.12.1.GA.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/dom4j/dom4j/1.6.1/dom4j-1.6.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/xml-apis/xml-apis/1.0.b2/xml-apis-1.0.b2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
